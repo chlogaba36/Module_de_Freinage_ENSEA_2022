@@ -1,10 +1,11 @@
-Description de la partie IHM:
+#Description de la partie IHM
 
 Ce que nous avons réalisé:
 Commande d'un afficheur LCD Groove avec la carte STM32 Nucleo F410
 Cette partie nous a pris beaucoup de temps (dû au manque de documentations, sont manque de qualité et à des librairies partielles en Arduino).
 Ce que nous avons réussi à réaliser:
-- Réfaire une librairie entière pour l'écran LCD qui fonctionne et est documentée.
+- Réaliser une connexion I2C
+- Refaire une librairie entière pour l'écran LCD qui fonctionne et est documentée.
 - Changer des menus (c'est-à-dire afficher plusieurs pattern d'écran).
 
 Commande d'un bouton sur la carte STM32 Nucleo F410 (fonctionnement sensiblement identique à l'utilisation d'un bouton externe)
