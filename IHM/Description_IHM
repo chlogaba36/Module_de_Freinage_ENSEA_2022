@@ -15,3 +15,8 @@ Cette partie a été partiellement réalisé. Nous avons dans un premier temps p
 
 Par manque de temps, nous avons effectué nos commandes sur la carte STM32 Nucleo F410. Pour passer au microprocesseur STM32G030K6T6, il faudrait changer les connexions (sur les pins et en physique), mais le code est sensiblement le même.
 Pour effectuer nos commandes, nous avons utilisé abondamment les fonctions HAL.
+
+Ce qu'il reste à faire:
+- finir la réalisation de la commande Encodeur - Microprocesseur 
+- réaliser la commande Driver MOSFET - Microprocesseur
+
