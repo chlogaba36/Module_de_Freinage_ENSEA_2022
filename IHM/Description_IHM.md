@@ -1,4 +1,4 @@
-#Description de la partie IHM
+Description de la partie IHM:
 
 Ce que nous avons réalisé:
 Commande d'un afficheur LCD Groove avec la carte STM32 Nucleo F410
