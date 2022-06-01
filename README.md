@@ -7,5 +7,5 @@ Sur ce github se trouve les datasheets des éléments utilisés, les éléments 
   
 Actuellement, la library de l'écran LCD est complète et fonctionnel avec une documentation Doxygen, le codeur incrémental et le driver n'ont pas encore été mis en place et le fonctionnement global n'a pas pu être testé.
 
-Pour plus d'information, voir le cahier des charges.
+Pour plus d'information, voir le cahier des charges(disponible dans le dossier livrable)
 </h5>
