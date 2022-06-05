@@ -1,4 +1,5 @@
 # Module_de_Freinage_ENSEA_2022
+![image](https://user-images.githubusercontent.com/103487248/172070756-a4fe4060-e0df-4c45-a817-6dae26e64dd8.png)
 
 <h5>
 Dans le cadre de projet de 1ère année à l'ENSEA, nous avons créé un frein pour moteur à courant continue reposant sur le principe de résitance dissipative.
